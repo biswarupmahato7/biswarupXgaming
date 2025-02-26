@@ -166,8 +166,8 @@ const Features = () => (
         </BentoTilt>
 
         <BentoTilt className="bento-tilt_2">
-          <div className="flex size-full flex-col justify-between bg-violet-300 p-5">
-            <h1 className="bento-title special-font max-w-64 text-black">
+          <div className="flex size-full flex-col justify-between  bg-violet-300 p-5">
+            <h1 className="bento-title text-gray-400 special-font max-w-64 text-black">
               Designe <br /> By <br /> Bi<b>s</b>w<b>a</b>rup cr7
             </h1>
 
